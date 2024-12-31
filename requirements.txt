@@ -1,2 +1,2 @@
-webvtt_py==0.4.6
-yt_dlp==2023.11.16
+webvtt_py
+yt_dlp
